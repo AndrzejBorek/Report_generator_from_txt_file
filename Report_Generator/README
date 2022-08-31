@@ -1,0 +1,8 @@
+In Orders.txt file "Columns" are : 
+Order Id
+Client Id
+Product Id
+Product Price
+Discount on this product for this order
+
+Program import this data from Orders.txt, then exports to separate folders simple report about products, discounts and clients.
